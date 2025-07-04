@@ -34,8 +34,8 @@ To make the project more similar to real-life problems, I split it into small ta
 As the project progresses, I will add the time spent on each task. 
 
 1. Problem Selection & Setup: Choose a simple dataset (e.g., Iris, Titanic), define objective (classification or regression), set up local environment (Python, Jupyter). **41 minutes**
-2. Data Exploration & Cleaning: Load the data, do basic cleaning (missing values, types), and basic EDA (plots, stats).
-3. Feature Engineering & Selection: Select relevant features, do basic encoding or scaling, create train/test split.
+2. Data Exploration & Cleaning: Load the data, do basic cleaning (missing values, types), and basic EDA (plots, stats). **45 minutes**
+3. Feature Engineering & Selection: Select relevant features, do basic encoding or scaling, create train/test split. **38 minutes**
 4. Model Training: Train a simple model (e.g., Logistic Regression or Decision Tree), evaluate it using basic metrics.
 5. Manual Inference Script: Write a Python script that loads the model and takes manual input (or reads a file) to make predictions.
 6. Manual "Deployment": Create a local folder structure and document the steps to run: train, evaluate, and predict. Nothing is automated.
