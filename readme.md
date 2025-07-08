@@ -37,8 +37,7 @@ As the project progresses, I will add the time spent on each task.
 2. Data Exploration & Cleaning: Load the data, do basic cleaning (missing values, types), and basic EDA (plots, stats). **45 minutes**
 3. Feature Engineering & Selection: Select relevant features, do basic encoding or scaling, create train/test split. **38 minutes**
 4. Model Training: Train a simple model (e.g., Logistic Regression or Decision Tree), evaluate it using basic metrics. **57 minutes**
-5. Manual Inference Script: Write a Python script that loads the model and takes manual input (or reads a file) to make predictions.
-6. Manual "Deployment": Create a local folder structure and document the steps to run: train, evaluate, and predict. Nothing is automated.
-7. Documentation: Write a README explaining how to run each script manually. Mention which files to edit or execute.
-8. Testing the Manual Process: Simulate being a user: clone the project, run everything manually from scratch, and fix any issues.
-9. Reflection & Publication Prep: Write a summary (for LinkedIn or blog): what this maturity level is, what you did, what’s missing, and the next steps.
+5. Manual Inference Script: Write a Python script that loads the model and takes manual input (or reads a file) to make predictions. **22 minutes**
+6. Documentation: Write a README explaining how to run each script manually. Mention which files to edit or execute.
+7. Testing the Manual Process: Simulate being a user: clone the project, run everything manually from scratch, and fix any issues.
+8. Reflection & Publication Prep: Write a summary (for LinkedIn or blog): what this maturity level is, what you did, what’s missing, and the next steps.
